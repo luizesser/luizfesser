@@ -1,0 +1,20 @@
+Package: luizfesser
+Type: Package
+Title: Miscelaneous functions for Species Distribution Modeling
+Version: 0.1
+Author: Luíz Fernando Esser
+Maintainer: Luíz Fernando Esser <luizesser@gmail.com>
+Description: A package to group functions that I built for all purposes in SDM research.
+License: GPL (>= 3)
+URL: https://luizfesser.wordpress.com
+Encoding: UTF-8
+Imports:
+  sdm, 
+  raster, 
+  CoordinateCleaner, 
+  rgbif, 
+  taxize,
+  sp,
+  plyr,
+  dplyr
+RoxygenNote: 7.2.1
